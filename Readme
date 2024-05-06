@@ -1,0 +1,11 @@
+Changes in the User Interface-UI in Vanguard Investment Company
+
+This project is about a user interface (UI) changes, done in the USA, Vanguard Investment Company. The idea is analysing the results obtained through a AB Testing. And conclude if the changes will encourage  more clients to complete their current task or action until the end.
+
+Content:
+
+ - Data: Here you can find the original data set and the data set created after cleaning. The data used is from the online interaction from 15 Mar 17 until 20 Jun 17
+
+ - Notebooks: Here you can find the Jupyter notebook with the code written
+
+ - Slides: The presentation with the main insights obtained from the data, conclusions and link to Tableau Visualisation.
